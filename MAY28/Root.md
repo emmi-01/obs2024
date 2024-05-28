@@ -12,3 +12,7 @@ title : "May28"
 
 [[jdb=code+markdown]]
 [[pandocmarkdownObsidianimport]]
+
+## Subchapter2: StockOnly
+
+* Leverage[SmartTr] vs Tanalysis][Skill]
